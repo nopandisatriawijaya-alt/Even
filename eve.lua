@@ -24,13 +24,13 @@ local MAX_LOGS = 8
 
 local EVENT_ICONS = {
     ["132941749130533"] = {
-        name = "DINOSAURUS",
-        emoji = "🦖",
+        name = "ANGSA EMAS",
+        emoji = "🦢",
     },
 
     ["124768713967948"] = {
-        name = "BOS AYAM",
-        emoji = "🐔",
+        name = "DINOSAURUS",
+        emoji = "🦖",
     },
 
     ["138056176344406"] = {
